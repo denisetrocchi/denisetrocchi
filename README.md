@@ -1,4 +1,4 @@
-# Denise Trocchi
-My name is Denise Trocchi and I'm a Designer & Developer from Bologna, Italy.
+## Denise Trocchi
+Designer & Developer
 <br>
-Full CV & Portfolio on request (ツ)
+from Bologna, Italy.
