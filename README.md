@@ -3,4 +3,5 @@ Designer & Developer
 <br>
 from Bologna, Italy.
 <br>
-![denisetrocchi-github](https://user-images.githubusercontent.com/91826111/179064992-f3d44adb-a78b-4f9b-814b-17c8c4703401.svg)
+
+![dt-github-profile](https://user-images.githubusercontent.com/91826111/179168314-0089b59a-d736-44a2-a08b-aa94905a8d82.svg)
